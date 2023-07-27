@@ -41,9 +41,10 @@ All scripts are designed to be run from the command line. Here's an example of h
 ## Requirements
 
 - Bash environment (use Git Bash on Windows)
-- Node.js
-- React
-- Jest
+- [Node.js](https://nodejs.org/en/download/current)
+- [React](https://react.dev/learn/installation)
+- [Jest](https://jestjs.io/docs/getting-started)
+- [Prettier](https://prettier.io/docs/en/install.html)
 
 ## Contributing
 
