@@ -115,7 +115,6 @@ generate_page() {
     return (
         <>
           <h2> Message from Bilal 😎 & Ali 🎨</h2>
-          <h1> Switch to Angular for more beautiful generators... </h1>
         </>
     )$semicolon
 }"

@@ -91,7 +91,6 @@ export const $component_class = (props: I${component_class}Props) => {
     return (
         <>
           <h2> {'Demo Component'} </h2>
-          <h1> {'Switch to angular for more beautiful generators... - Bilal & Ali'} </h1>
         </>
     )$semicolon
 }"
